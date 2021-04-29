@@ -2,10 +2,10 @@
 
 
 /// go test
-=== RUN   TestPipeline
---- PASS: TestPipeline (0.02s)
-=== RUN   TestSigner
---- PASS: TestSigner (2.12s)
+RUN   TestPipeline
+PASS: TestPipeline (0.02s)
+RUN   TestSigner
+PASS: TestSigner (2.12s)
 PASS
 
 Process finished with the exit code 0
