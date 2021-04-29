@@ -1,5 +1,5 @@
-# hw2_signer
-Решение задачи по программированию: Конвейер функций от Mizu aka Dimondi
+# Решение задачи по программированию: Конвейер функций от Mizu aka Dimondi
+
 
 /// go test
 === RUN   TestPipeline
